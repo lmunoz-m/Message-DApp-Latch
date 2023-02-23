@@ -1,4 +1,4 @@
-# TRANSFER TOKEN DAPP WITH LATCH
+# NFT MARKETPLACE WITH LATCH
 
 To run the backend, run the commands below.
 ```bash
